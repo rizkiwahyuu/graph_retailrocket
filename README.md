@@ -2,7 +2,7 @@
 
 ## Deskripsi Tugas
 
-Tugas ini merupakan **Ujian Tengah Semester (UTS)** pada mata kuliah *Graf dan Analisis Data* (Semester 7).  
+Tugas ini merupakan **Ujian Tengah Semester (UTS)** pada mata kuliah *Graf Sains Data* (Semester 7).  
 Mahasiswa diminta untuk melakukan analisis pada dataset **RetailRocket** yang berisi data transaksi e‑commerce.  
 Dataset terdiri dari file CSV yang memuat informasi:
 - `events.csv` – setiap aksi (view, add‑to‑cart, purchase) beserta timestamp, user ID, item ID, dsb.
