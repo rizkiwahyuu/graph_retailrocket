@@ -34,13 +34,6 @@ pip install -r requirements.txt  # file requirements.txt tersedia di repo
 jupyter notebook uts_gsd_.ipynb
 ```
 
-## Upload ke GitHub
-Repositori ini sudah di‑push ke GitHub. Untuk memperbarui, lakukan:
-```bash
-git add .
-git commit -m "Update README and notebook"
-git push origin main
-```
 
 ---
 *Repository ini bersifat publik/privat sesuai kebijakan Anda.*
